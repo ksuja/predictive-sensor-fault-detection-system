@@ -1,4 +1,3 @@
-
 Predictive Sensor Fault Detection:  
 This project uses time-series machine learning to predict and detect faults in industrial temperature sensors (PT100 etc.), supporting smart farming and industrial automation tasks. It processes large datasets, detects outliers, and produces actionable alerts for preventive maintenance.
 
